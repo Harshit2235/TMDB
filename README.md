@@ -1,9 +1,13 @@
-View Live: https://tmdb21harshit.vercel.app/
-# React + Vite
+# TMDB Movie Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive interface for browsing movies using the TMDB API.
 
-Currently, two official plugins are available:
+## Features
+- Infinite scrolling for seamless browsing
+- Responsive design (mobile-first)
+- Genre-based filtering
+- Detailed movie information pages
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live Demo: https://tmdb21harshit.vercel.app/
+## Tech Stack
+React | Tailwind CSS | TMDB API 
