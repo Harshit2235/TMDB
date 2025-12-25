@@ -1,4 +1,4 @@
-View Live: [Vercel]{tmdb21harshit.vercel.app}
+View Live: [Vercel](tmdb21harshit.vercel.app)
 
 # React + Vite
 
